@@ -1,4 +1,5 @@
 # Launching the application
+npm i\
 npm run startEl
 
 
