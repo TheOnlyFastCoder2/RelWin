@@ -1,0 +1,6 @@
+<svg width="9" height="9" viewBox="0 0 9 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path class="buttonWin" d="M0 0H2.94643V1.76786H1.76786V3.53571H0V2.35714V0Z" fill="white"/>
+<path class="buttonWin" d="M8.94641 0H5.99998V1.76786H7.17855V3.53571H8.94641V2.35714V0Z" fill="white"/>
+<path class="buttonWin" d="M0 9H2.94643V7.23214H1.76786V5.46429H0V6.64286V9Z" fill="white"/>
+<path class="buttonWin" d="M8.94641 9H5.99998V7.23214H7.17855V5.46429H8.94641V6.64286V9Z" fill="white"/>
+</svg>
