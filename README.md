@@ -1,4 +1,5 @@
-# Launching the application
+# RelWin
+## Как запустить ?
 npm i\
 npm run startEl
 
